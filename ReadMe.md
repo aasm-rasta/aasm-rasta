@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de front-end<br>🤝 Estou a procura de estagio<br>
+🔭 Sou estudante de Analise e desenvolvimento de Sistemas<br>🤝 Estou a procura de estagio<br>
 
 
 # 💻 Tech Stack:
