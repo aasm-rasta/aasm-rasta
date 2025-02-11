@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Analise e desenvolvimento de Sistemas<br>🤝 Estou a procura de estagio<br>
+✨Apaixonado por tecnologia<br>🔭 Sou estudante de Analise e desenvolvimento de Sistemas 4/5<br>🤝 Estou a procura de estagio<br>
 
 
 # 💻 Tech Stack:
