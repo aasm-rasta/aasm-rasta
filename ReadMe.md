@@ -1,5 +1,5 @@
 # 💫 About Me:
- 💡Amante de tecnologia e soluções inteligentes<br>📚 Estudante de ADS - 4/5<br>💼 Pronto para meu primeiro desafio como estagiário<br>🔍 Buscando uma empresa para crescer e contribuir<br>🌱 Evoluindo todos os dias como desenvolvedor
+ 💡 Amante de tecnologia e soluções inteligentes<br>📚 Estudante de ADS - 4/5<br>💼 Pronto para meu primeiro desafio como estagiário<br>🔍 Buscando uma empresa para crescer e contribuir<br>🌱 Evoluindo todos os dias como desenvolvedor
 
 
 # 💻 Tech Stack:
